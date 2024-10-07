@@ -51,4 +51,3 @@ Connect with me:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuB-W&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YuB-W&theme=dark&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuB-W&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
-![Contribution Graph](https://github-readme-stats.vercel.app/api/generate_card?username=YuB-W&theme=dark&count_private=true)  
