@@ -11,7 +11,7 @@
   - Created a custom tool to counteract attacks initiated by tools such as Wifite or Airdump-ng.
 
 - **Last Projects**: 
-  - [Yub-X](yubx_protect)
+  - [Yub-X]([yubx_protect](https://github.com/YuB-W/yubx_protect))
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RkDRNSh4SK) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yub__y) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/YuB-X) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@YuB-X) 
