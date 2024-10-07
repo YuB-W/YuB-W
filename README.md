@@ -1,5 +1,5 @@
 # 💫 About Me
-Hello! I'm an 18-year-old self-taught security enthusiast with a strong passion for technology and development. I thrive on taking complex challenges and turning them into simple, automated solutions that help others.
+I'm an 18-year-old self-taught security enthusiast with a strong passion for technology and development. I thrive on taking complex challenges and turning them into simple, automated solutions that help others.
 
 ## 🔍 Skills and Expertise
 - **Reverse Engineering**: 
@@ -14,7 +14,7 @@ Hello! I'm an 18-year-old self-taught security enthusiast with a strong passion 
     - RTPS
 
 - **Kali Linux Proficiency**: 
-  - Over 5 years of hands-on experience in security tasks, including:
+  - Over 7 years of hands-on experience in security tasks, including:
     - WPA cracking
     - DoS attacks
     - Network scanning with Nmap
