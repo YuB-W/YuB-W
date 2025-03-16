@@ -38,6 +38,7 @@ My goal is to make advanced security tools accessible to everyone, automating co
 
 ## 🌐 Socials
 Feel free to connect with me on any platform:
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WDMFKezSMZ)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yubx.com_)  
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/YuB-X)  
