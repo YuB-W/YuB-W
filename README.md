@@ -1,57 +1,78 @@
 # 💫 About Me
 
-I'm a 19-year-old self-taught security enthusiast with a deep passion for technology, hacking, and development. Over the past year, I’ve expanded my knowledge and experience, diving deeper into RF hacking, and I’ve started new projects centered around **HackRF One** and **RTL-SDR**. These tools have enabled me to develop advanced skills in **RF spoofing**, **jamming**, and **attack detection**.
+I'm a security-focused developer and reverse engineer, building tools at the edge of **wireless exploitation**, **game security bypassing**, and **real-time protection systems**. My work includes SDR/RF research, binary instrumentation, and exploit development — with a focus on automation, stealth, and performance.
 
-In addition to my previous experience in network security and penetration testing, I now specialize in leveraging **radio frequencies** for a variety of cybersecurity applications, from attack simulation to RF signal analysis. I enjoy creating innovative solutions that combine my technical knowledge with my drive for automation and simplicity.
+---
 
-## 🔍 Skills and Expertise
+## 🧠 Skills and Expertise
 
-### **RF Hacking & SDR**
-- Experienced in using **HackRF One** and **RTL-SDR v3** for RF signal exploration and manipulation.
-- Proficient in **RF spoofing**, **jamming**, and **signal detection**.
-- In-depth understanding of **human identification techniques** using radio frequencies.
-- Exploring **advanced RF attack vectors** and providing real-world solutions.
+### 🔧 RF Hacking & SDR
+- Extensive work using **RTL-SDR** and **HackRF One** for signal intelligence and radar emulation.
+- RF spoofing, jamming, human signature tracking.
+- Creator of [rtlsdr_Radar](https://github.com/YuB-W/rtlsdr_Radar) — a Python-based real-time passive radar project using RTL-SDR v3.
 
-### **Networking & Security**
-- Expertise in **Python** and **Kali Linux**, with a strong focus on:
-  - **MITM Attacks**
-  - **WiFi Attacks** (including WPA-3)
-  - **Fake AP Attacks**
-  - **DoS Attack Detection and Mitigation**
-  - Developed tools for **Wi-Fi network security**, including countermeasures against **WPA-3** vulnerabilities.
+### 🛡️ Wi-Fi & Network Security
+- MITM, WPA2/WPA3 cracking, Deauth flooding, beacon spamming.
+- Live threat monitoring and spoof detection via [yubx_protect](https://github.com/YuB-W/yubx_protect).
+- Custom-built GUI defense platforms in Python (Flask + Tkinter).
 
-### **Penetration Testing & Exploitation**
-- Extensive experience with **Metasploit**, **Nmap**, and **Wifite** for network scanning, exploitation, and DoS attacks.
-- Skilled in reverse engineering and software analysis using languages like **C++**, **C#**, and **Assembly**.
+### 🔬 Reverse Engineering & Exploit Dev
+- Deep analysis of protected systems (e.g. Roblox Hyperion/Byfron).
+- Working implementations of:
+  - [RBX-cfg-bypass](https://github.com/YuB-W/RBX-cfg-bypass): CFG whitelist injection & memory patching for Roblox.
+  - [YuB-X_RBX_Dumper](https://github.com/YuB-W/YuB-X_RBX_Dumper): Manual mapping dumper and function scanner.
+  - [YuB-X-roblox-api](https://github.com/YuB-W/YuB-X-roblox-api): Internal Lua API documentation & function resolution engine.
+  - [YuB-X-Hyperion_Updateds](https://github.com/YuB-W/YuB-X-Hyperion_Updateds): Web-based Roblox version tracking and update automation (HTML/JS stack).
 
-### **Kali Linux & Security Tools**
-- Over 9 years of hands-on experience in Kali Linux, with expertise in:
-  - **WPA Cracking** and **Exploit Development**
-  - **Network Scanning and Enumeration**
-  - **Advanced DoS and Deauthentication Attacks**
+---
 
-## 💻 Development Philosophy
-My goal is to make advanced security tools accessible to everyone, automating complex processes to simplify cybersecurity. I strive to build tools that empower users, enhance protection, and advance the cybersecurity community.
+## 🔥 Featured Projects
 
-## 🚀 Recent Projects
-- [**Yub-X**](https://github.com/YuB-W/yubx_protect): A project designed to enhance security with protection strategies and tools for network defense.
+| Project | Description |
+|--------|-------------|
+| [**rtlsdr_Radar**](https://github.com/YuB-W/rtlsdr_Radar) | Real-time passive radar using RTL-SDR, analyzing aircraft/movement via Doppler |
+| [**YuB-X_RBX_Dumper**](https://github.com/YuB-W/YuB-X_RBX_Dumper) | Manual map-based reverse engineering tool for Roblox Player |
+| [**YuB-X-roblox-api**](https://github.com/YuB-W/YuB-X-roblox-api) | Extracts Lua API metadata from memory, including obfuscated functions |
+| [**yubx_protect**](https://github.com/YuB-W/yubx_protect) | Real-time Wi-Fi protection and attack response toolkit |
+| [**RBX-cfg-bypass**](https://github.com/YuB-W/RBX-cfg-bypass) | Stealth CFG whitelisting for Hyperion bypass |
+| [**YuB-X-Hyperion_Updateds**](https://github.com/YuB-W/YuB-X-Hyperion_Updateds) | Auto-updating site for Roblox deployment version tracking |
 
-## 🌐 Socials
-Feel free to connect with me on any platform:
+---
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WDMFKezSMZ)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yubx.com_)  
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/YuB-X)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@YuB-X)
+## 💻 Dev Philosophy
 
-## 💻 Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%23239120.svg?style=for-the-badge&logo=python&logoColor=white)  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- 🛠️ No external dependencies unless necessary.
+- ⚙️ Speed + stealth > bloat.
+- 🔐 Always build for red and blue use cases.
+- 📦 Clean codebase = scalable, shareable, patchable tools.
+
+---
+
+## 🧰 Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuB-W&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YuB-W&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuB-W&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuB-W&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YuB-W&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuB-W&theme=dark&hide_border=false&layout=compact)
+
+---
+
+## 🌐 Connect
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WDMFKezSMZ)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/YuB-X)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@YuB-X)
+
+---
+
+> 🧩 If it’s protected, I reverse it. If it’s slow, I optimize it. If it’s broken, I rewrite it.
+
