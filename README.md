@@ -4,21 +4,6 @@ I'm a security-focused developer and reverse engineer, building tools at the edg
 
 ---
 
-## 🏆 YuB-X Project Highlights
-
-| Badge | Description |
-|-------|-------------|
-| 🚀 1600+ Contributions | Active across C++, Python, RF tooling, and exploit research |
-| 💥 CFG Bypass Dev | Developed and published a working Hyperion CFG whitelist bypass |
-| 📡 RF Radar Builder | First open-source RTL-SDR Python-based radar system |
-| 🔐 Lua Hook Framework | Built custom `hookfunction`, `hookmetamethod`, and closure inspection tools |
-| 🌐 Web Intelligence Tools | Released [Hyperion_Updateds](https://github.com/YuB-W/YuB-X-Hyperion_Updateds) to track Roblox updates live |
-| 🧪 Roblox Dump Engine | [YuB-X_RBX_Dumper](https://github.com/YuB-W/YuB-X_RBX_Dumper) extracts Lua structures from memory |
-
-
-
-
-
 ## 🧠 Skills and Expertise
 
 ### 🔧 RF Hacking & SDR
