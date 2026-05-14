@@ -1,7 +1,7 @@
 hey — i'm yubx.
 
 low-level dev, reverse engineering, rf. il.
-i run [**yub-x**](https://yub-x.com) — runtime tooling and research for the roblox client.
+i run [**yub-x**](https://yub-x.net) — runtime tooling and research for the roblox client.
 
 ---
 
@@ -29,4 +29,4 @@ c++ · c# · python · win32 / seh · luau internals · ida · rtl-sdr · hackrf
 
 ### links
 
-[yub-x.com](https://yub-x.com) · [youtube](https://youtube.com/@YuB-X) · [discord](https://discord.gg/4BPuyNkGsc)
+[yub-x.com](https://yub-x.net) · [youtube](https://youtube.com/@YuB-X) · [discord](https://discord.gg/4BPuyNkGsc)
