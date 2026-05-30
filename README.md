@@ -1,4 +1,4 @@
-hey — i'm yubx.
+hey — i'm craca.
 
 low-level dev, reverse engineering, rf. il.
 i run [**yub-x**](https://yub-x.net) — runtime tooling and research for the roblox client.
