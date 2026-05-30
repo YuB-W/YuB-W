@@ -29,4 +29,4 @@ c++ · c# · python · win32 / seh · luau internals · ida · rtl-sdr · hackrf
 
 ### links
 
-[yub-x.com](https://yub-x.net) · [youtube](https://youtube.com/@YuB-X) · [discord](https://discord.gg/4BPuyNkGsc)
+[yub-x.com](https://yub-x.com) · [yub-x.net](https://yub-x.net) · [yub-x.space](https://yub-x.space) · [youtube](https://youtube.com/@YuB-X) · [discord](https://discord.gg/4BPuyNkGsc)
